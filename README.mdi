@@ -1,1 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tofzzy Jnr Official</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #000000, #1a1a1a);
+      color: white;
+      text-align: center;
+    }
 
+    header {
+      padding: 50px 20px;
+    }
+
+    h1 {
+      font-size: 40px;
+      color: gold;
+    }
+
+    p {
+      font-size: 18px;
+      color: #ccc;
+    }
+
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background: gold;
+      color: black;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 40px 20px;
+    }
+
+    footer {
+      margin-top: 50px;
+      padding: 20px;
+      background: #111;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Tofzzy Jnr</h1>
+    <p>Official Artist Website</p>
+    <a class="btn" href="#">Follow Me</a>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>I am Tofzzy Jnr, a creative artist building my dream in music, design, and entertainment.</p>
+  </section>
+
+  <section>
+    <h2>My Work</h2>
+    <p>Music • Art • Creativity • Content Creation</p>
+  </section>
+
+  <footer>
+    © 2026 Tofzzy Jnr. All rights reserved.
+  </footer>
+
+</body>
+</html>
